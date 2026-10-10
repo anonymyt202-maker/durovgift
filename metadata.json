@@ -1,0 +1,6 @@
+{
+  "name": "Telegram Gifts Bot",
+  "description": "Production Telegram Gifts Bot with Stars payments, catalog, P2P gift delivery, daily rewards, mini-games, referrals, and admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
